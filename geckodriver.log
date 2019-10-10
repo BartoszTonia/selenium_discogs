@@ -361,3 +361,12 @@ console.log: Accessibility service init or shutdown observer does not exist.
 1570721185324	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePaOdej"
 1570721188912	Marionette	INFO	Listening on port 42903
 1570721188971	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570722005153	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2Y5hDT"
+1570722008737	Marionette	INFO	Listening on port 38763
+1570722008921	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1570722184743	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuZlz9L"
+console.log: Accessibility service init or shutdown observer does not exist.
+1570722190163	Marionette	INFO	Listening on port 45751
+1570722190205	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.

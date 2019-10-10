@@ -23,7 +23,7 @@ def add_attributes():
 
 start_site("https://www.discogs.com/sell/list")
 
-search_marketplace("Chemical Brothers")
+search_marketplace("Prodigy")
 add_attributes()
 
 #
