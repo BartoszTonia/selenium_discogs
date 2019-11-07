@@ -370,3 +370,142 @@ console.log: Accessibility service init or shutdown observer does not exist.
 1570722190163	Marionette	INFO	Listening on port 45751
 1570722190205	Marionette	WARN	TLS certificate errors will be ignored for this session
 console.log: Accessibility service init or shutdown observer does not exist.
+1570722403866	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilew45V8x"
+1570722407676	Marionette	INFO	Listening on port 46167
+1570722407713	Marionette	WARN	TLS certificate errors will be ignored for this session
+1570734964840	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQvvPUF"
+1570734968824	Marionette	INFO	Listening on port 38655
+1570734968874	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/jquery.ba-bbq/1.2.1/jquery.ba-bbq.min.js, line 18: TypeError: f is undefined
+1572021968674	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev1NpVv"
+1572021973423	Marionette	INFO	Listening on port 40583
+1572021973521	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1572022096505	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNKXjYx"
+1572022100333	Marionette	INFO	Listening on port 43939
+1572022100458	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1573149971984	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDv8Y8f"
+1573149976611	Marionette	INFO	Listening on port 34701
+1573149976636	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1573150004209	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile91hOs1"
+1573150008042	Marionette	INFO	Listening on port 34451
+1573150008159	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1603381614214011430/index.html#t=13862376092384649612&p=https%3A%2F%2Ftpc.googlesyndication.com, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1603381614214011430/index.html#t=13862376092384649612&p=https%3A%2F%2Ftpc.googlesyndication.com, line 196: TypeError: gwdAd.initAd is not a function
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1573150175877	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel5wLCB"
+1573150179922	Marionette	INFO	Listening on port 39669
+1573150180042	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573150297911	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezDdeCA"
+1573150302084	Marionette	INFO	Listening on port 37405
+1573150302153	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 7282, Gecko_IOThread] WARNING: pipe error (85): Connection reset by peer: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1573150328592	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZUXKig"
+1573150332156	Marionette	INFO	Listening on port 37005
+1573150332262	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/jquery.ba-bbq/1.2.1/jquery.ba-bbq.min.js, line 18: TypeError: f is undefined
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1573150377268	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejv23YR"
+1573150380856	Marionette	INFO	Listening on port 37943
+1573150380920	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1603381614214011430/index.html#t=5346389284470456783&p=https%3A%2F%2Ftpc.googlesyndication.com, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1603381614214011430/index.html#t=5346389284470456783&p=https%3A%2F%2Ftpc.googlesyndication.com, line 196: TypeError: gwdAd.initAd is not a function
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x49000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x49000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.log: Accessibility service init or shutdown observer does not exist.
+1573150414819	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSN9xA5"
+1573150419156	Marionette	INFO	Listening on port 36393
+1573150419286	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573150531231	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebIzCby"
+1573150535291	Marionette	INFO	Listening on port 34533
+1573150535385	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1573150611654	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6cqF2f"
+1573150615867	Marionette	INFO	Listening on port 33203
+1573150615917	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1573150650176	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDfNlEx"
+1573150654402	Marionette	INFO	Listening on port 46105
+1573150654509	Marionette	WARN	TLS certificate errors will be ignored for this session
+1573150748155	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefCAfB6"
+1573150752256	Marionette	INFO	Listening on port 43513
+1573150752312	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: https://cdn.ampproject.org/rtv/011910251950120/amp4ads-v0.js, line 139: TypeError: e.hasAttribute is not a function
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1573153295436	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile57u3zI"
+1573153301372	Marionette	INFO	Listening on port 39087
+1573153301420	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1603381614214011430/index.html#t=4317626587451805354&p=https%3A%2F%2Ftpc.googlesyndication.com, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1603381614214011430/index.html#t=4317626587451805354&p=https%3A%2F%2Ftpc.googlesyndication.com, line 196: TypeError: gwdAd.initAd is not a function
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1573153356906	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXtv94k"
+1573153360990	Marionette	INFO	Listening on port 36007
+1573153361089	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1573153427161	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRGUPeR"
+1573153432798	Marionette	INFO	Listening on port 35563
+1573153432857	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox-esr:2310): GLib-GObject-WARNING **: 14:04:08.376: g_object_get_is_valid_property: object class 'GdkX11DeviceCore' has no property named 'device-id'
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 2351, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 2351, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
