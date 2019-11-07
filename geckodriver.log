@@ -463,3 +463,49 @@ IPDL protocol error: Handler returned error code!
 
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
 JavaScript error: https://cdn.ampproject.org/rtv/011910251950120/amp4ads-v0.js, line 139: TypeError: e.hasAttribute is not a function
+console.log: Accessibility service init or shutdown observer does not exist.
+console.log: Accessibility service init or shutdown observer does not exist.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1573153295436	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile57u3zI"
+1573153301372	Marionette	INFO	Listening on port 39087
+1573153301420	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1603381614214011430/index.html#t=4317626587451805354&p=https%3A%2F%2Ftpc.googlesyndication.com, line 2: TypeError: document.registerElement is not a function
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/1603381614214011430/index.html#t=4317626587451805354&p=https%3A%2F%2Ftpc.googlesyndication.com, line 196: TypeError: gwdAd.initAd is not a function
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x550027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1573153356906	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXtv94k"
+1573153360990	Marionette	INFO	Listening on port 36007
+1573153361089	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1573153427161	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRGUPeR"
+1573153432798	Marionette	INFO	Listening on port 35563
+1573153432857	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(firefox-esr:2310): GLib-GObject-WARNING **: 14:04:08.376: g_object_get_is_valid_property: object class 'GdkX11DeviceCore' has no property named 'device-id'
+console.log: Accessibility service init or shutdown observer does not exist.
+[Child 2351, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+[Child 2351, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-5uDrOt/firefox-esr-60.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 694
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping

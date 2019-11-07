@@ -14,7 +14,7 @@ args = parser.parse_args()
 def start_site(site):
     browser.maximize_window()
     browser.get(site)
-    sleep(5)
+    sleep(2)
 
 def search_marketplace(position):
     browser.find_element_by_id("marketplace-search-form").click()
@@ -25,12 +25,12 @@ def search_marketplace(position):
 
 def add_attributes():
     actual_site = browser.current_url
-    browser.get(actual_site+"&condition=Near+Mint+%28NM+or+M-%29&format=Vinyl")
+    browser.get(actual_site+"&ships_from=Poland&condition=Near+Mint+%28NM+or+M-%29&format=Vinyl")
 
 start_site("https://www.discogs.com/sell/list")
 
 search_marketplace(args.vinyl)
-sleep(5)
+sleep(3)
 add_attributes()
 #
 # sleep(10000)
