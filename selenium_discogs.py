@@ -17,8 +17,8 @@ def start_site(site):
     sleep(2)
 
 def search_marketplace(position):
-    browser.find_element_by_id("marketplace-search-form").click()
-    browser.find_element_by_xpath("/html/body/div[1]/div[2]/div[4]/div[2]/div/button").click()
+    browser.find_element_by_id("onetrust-accept-btn-handler").click()
+    sleep(2)
     browser.find_element_by_id("marketplace-search-input").send_keys(position)
     browser.find_element_by_id("marketplace-search-input").send_keys(Keys.RETURN)
     # browser.find_element_by_xpath("/html/body/div[3]/div[4]/div[4]/form/button").click()
