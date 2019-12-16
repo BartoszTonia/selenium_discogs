@@ -1,16 +1,17 @@
-#! usr/bin/env python
+#! usr/bin/env python3
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from time import sleep
 import argparse
 
-browser = webdriver.Firefox(executable_path='./geckodriver')
+browser = webdriver.Firefox(executable_path='bin/geckodriver')
 
 parser = argparse.ArgumentParser(description="Wyszukiwanie plyt vinylowych na Discogs")
 parser.add_argument('-v', '--vinyl', dest="vinyl", type=str, help="pass vinyl title")
 
 
 def start_site(site):
+
     browser.maximize_window()
     browser.get(site)
 
